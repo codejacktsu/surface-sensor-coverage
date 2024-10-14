@@ -1,1 +1,1 @@
-# surface-sensor-coverage
+# Surface Sensor Coverage
